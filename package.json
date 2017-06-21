@@ -4,8 +4,6 @@
   "cordova": {
     "id": "ionic-plugin-keyboard",
     "platforms": [
-      "android",
-      "ios",
       "blackberry10",
       "wp8",
       "windows"
